@@ -1,0 +1,31 @@
+{
+	"schema": "1.0",
+	"type": "whmcs-gateways",
+	"name": "RTCustom",
+	"license": "MIT",
+	"category": "payments",
+	"description": {
+		"name": "Custom Payment Gateway",
+		"tagline": "Seamless Payments, Tailored Solutions: Elevate your WHMCS experience with our Custom Payment Gateway.",
+		"long": "This is a custom payment gateway module for WHMCS. It allows you to integrate a payment gateway with unique features into your WHMCS installation.",
+		"features": [
+			"Flexible Configuration",
+			"Customizable Payment Instructions",
+			"Transaction Tracking",
+			"Automatic Note Updates",
+			"WHMCS 8 Support"
+		]
+	},
+	"logo": {
+		"filename": "logo.png"
+	},
+	"support": {
+		"homepage": "https:\/\/www.uddoktapay.com\/"
+	},
+	"authors": [
+		{
+			"name": "UddoktaPay Team",
+			"homepage": "https:\/\/uddoktapay.com\/"
+		}
+	]
+}
