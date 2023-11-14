@@ -5,7 +5,7 @@ This is a custom payment gateway module for WHMCS. It allows you to integrate a 
 ## Installation
 
 1. **Download:**
-   - Download [RTCustom.zip](https://github.com/rtraselbd/WHMCSCustomGateway/releases/download/v1.0.0/RTPaddle.zip) file from the Release section of this repository.
+   - Download [RTCustom.zip](https://github.com/rtraselbd/WHMCSCustomGateway/releases/download/v1.0.0/RTCustom.zip) file from the Release section of this repository.
 
 2. **Extract:**
    - Unzip the downloaded file (`RTCustom.zip`) to the root directory of your WHMCS installation. The module is now ready to be configured.
